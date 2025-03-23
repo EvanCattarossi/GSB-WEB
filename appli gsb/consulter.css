@@ -1,0 +1,98 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #e0f2f7;
+    color: #333;
+}
+
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+header img {
+    max-height: 50px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+/* Styles spécifiques pour la consultation de la fiche de frais */
+h2 {
+    background-color: #f0f8ff; /* Bleu très clair pour le titre de la fiche */
+    padding: 10px;
+    border-radius: 5px;
+}
+
+h3 {
+    background-color: #f8f9fa; /* Gris clair pour les titres des sections */
+    padding: 8px;
+    border-radius: 3px;
+    margin-top: 20px;
+}
+
+table {
+    background-color: white; /* Fond blanc pour les tableaux */
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Légère ombre pour les tableaux */
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #e9ecef; /* Gris très clair pour les en-têtes de tableau */
+    font-weight: bold;
+}
+
+p strong {
+    font-weight: bold;
+}
