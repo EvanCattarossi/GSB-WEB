@@ -15,4 +15,4 @@ visiteur 1 : visiteur123
 visiteur2: visiteur234
 visiteur3 visiteur345
 comptable: comptable123
-administrateur: admin2024
+administrateur: Admin2024
