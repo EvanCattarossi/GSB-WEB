@@ -1,18 +1,7 @@
-Utilisateurs de test
-Administrateur : admin@example.com
-
-Visiteur 1 : louis.boda@example.com
-
-Visiteur 2 : john.jones@example.com
-
-Visiteur 3 : george.pierre@example.com
-
-Comptable : evan.cattarossi@example.com
-
-Mot de passe
-
-visiteur 1 : visiteur123 
-visiteur2: visiteur234
-visiteur3 visiteur345
-comptable: comptable123
-administrateur: Admin2024
+| Rôle           | Nom / Identifiant | Adresse e-mail                                                    | Mot de passe |
+| -------------- | ----------------- | ----------------------------------------------------------------- | ------------ |
+| Administrateur | admin             | [admin@example.com](mailto:admin@example.com)                     | Admin2024    |
+| Visiteur 1     | louis.boda        | [louis.boda@example.com](mailto:louis.boda@example.com)           | visiteur123  |
+| Visiteur 2     | john.jones        | [john.jones@example.com](mailto:john.jones@example.com)           | visiteur234  |
+| Visiteur 3     | george.pierre     | [george.pierre@example.com](mailto:george.pierre@example.com)     | visiteur345  |
+| Comptable      | evan.cattarossi   | [evan.cattarossi@example.com](mailto:evan.cattarossi@example.com) | comptable123 |
